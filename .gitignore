@@ -1,0 +1,15 @@
+# Build output & packages
+Output/
+*.intunewin
+*.zip
+*.printerExport
+
+# Troubleshooting & log files
+troubleshooting/
+*.log
+
+# OS & IDE metadata
+.ds_store
+Thumbs.db
+.vs/
+.vscode/
